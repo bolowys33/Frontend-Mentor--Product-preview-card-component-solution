@@ -38,7 +38,7 @@ In the challenge, users will be able to:
 ### Links
 
 - Solution URL: [View solution](https://github.com/bolowys33/Frontend-Mentor--Product-preview-card-component-solution)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site](https://bolowys33.github.io/Frontend-Mentor--Product-preview-card-component-solution/)
 
 ## My process
 
