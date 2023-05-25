@@ -26,12 +26,18 @@ In the challenge, users will be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+- Desktop View
+
+![](./images/Screenshot%202023-05-25%20153901.png)
+
+- Mobile View
+
+![](./images/Screenshot%202023-05-25%20154017.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [View solution](https://github.com/bolowys33/Frontend-Mentor--Product-preview-card-component-solution)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
